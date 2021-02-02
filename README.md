@@ -1,4 +1,5 @@
 # React Netflix Clone
+*View it here: https://react-netflix-clone-sage.vercel.app/*
 
 A React project where I implemented a lot of functionality of the Netflix site, including signup/signin functionality, browse page and more in a Single Page Application! 
 While making this I've learned a lot more on the following topics:
